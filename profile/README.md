@@ -5,7 +5,7 @@
 Welcome to our Poker Learning App!
 ===============================================
 
-Our app is the perfect tool for new players who want a comprehensive introduction to the game of poker. With our simple interface and easy-to-understand tutorials, you'll be playing like a pro in no time. Download the app now and start your journey!
+Our app is the perfect tool for new players who want a comprehensive introduction to the game of poker. With our simple interface and easy-to-understand tutorials, you'll be playing like a pro in no time. Download the app now and start your journey! hola matti
 Edited
 
 
